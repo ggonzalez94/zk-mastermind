@@ -1,0 +1,14 @@
+#RED = 1; GREEN = 2; YELLOW = 3; BLUE =4
+# Solution : Y R B G
+# Guess: R R B Y
+solnA = 3 
+solnB = 1
+solnC = 4
+solnD = 2
+salt = 50
+guessA = 1
+guessB = 1
+guessC = 4
+guessD = 3
+solnHash = "0x1a69450cbb89c7018759708c6dab6ffcaefb64642b58dfd4f9de54c5a202cbda"
+return = [2, 1]
